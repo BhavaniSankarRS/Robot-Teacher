@@ -5,6 +5,8 @@ faiss-cpu
 llama-cpp-python
 
 
+python -m streamlit run your_script.py
+
 
 
 pip install streamlit==1.34.0
